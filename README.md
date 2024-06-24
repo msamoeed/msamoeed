@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdul Moeed</h1>
-<h3 align="center">I've been a cross-platform application developer for over 4 and a half years. I have also been a core member and a flutter lead at Google Developers Club during my time at university. I have worked with various backend technologies as well such as Express, NodeJs, and both SQL, NoSQL databases, and cloud technologies such as Firebase and a bit of AWS. I love working with IoT and I have worked with ESP32 and ESP8266 to develop various IoT-based systems, one of my IoT-based project WON at the National Idea Bank competition organised by President Arif Alvi. I am passionate about utilising the power of both IoT and Mobile Apps to create an ecosystem with seamless integration which would solve many everyday life issues. My passion for both IoT and Mobile Application development.</h3>
+<h3 align="center">I'm a passionate cross-platform full stack engineer with over 4 and a half years of experience. I love developing enterprise solutions with a huge focus on core engineering concepts. I am a huge advocate for clean architecture and TDD.
+
+My experience spans over various tech stack and domains. I have worked with native as well cross platform mobile apps. Huge backend middleware solutions in Banking, cloud based distributed micro-services architecture and databases as well as enterprise software development. I also have expertise working with hardware solutions. IoT is one of the things i am very passionate about. 
+
+I am incredibly passionate about using the power of both IoT and Mobile Apps to create a seamless ecosystem that can solve everyday life issues. My love for both IoT and Mobile Application development has helped me become proficient in developing apps that integrate with IoT devices, enabling users to have a more connected and convenient experience.
+
+I have extensive experience integrating payment gateways into mobile applications, including 1Link and Raast. I understand the importance of providing secure and seamless payment options to users and strive to ensure that the payment gateway integrations in my apps are reliable and user-friendly.
+
+Moreover, I have also worked with Core Banking T24, which is widely used in the banking industry. My experience with T24 has given me a deep understanding of the banking industry's requirements and regulations, which helps me deliver banking mobile applications that comply with industry standards and best practices.
+
+I am passionate about staying up-to-date with the latest trends and developments in the digital banking industry and constantly seek opportunities to enhance my skills and knowledge in this area. If you're looking for a mobile application developer with expertise in the digital banking domain, I would be delighted to collaborate with you.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msamoeed&label=Profile%20views&color=0e75b6&style=flat" alt="msamoeed" /> </p>
 
