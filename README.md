@@ -15,7 +15,7 @@ I am passionate about staying up-to-date with the latest trends and developments
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msamoeed" alt="msamoeed" /></a> </p>
 
-- 🔭 I’m currently working at **Systems Limited**
+- 🔭 I’m currently working at **Karty**
 
 - 💬 Ask me about **Flutter**
 
