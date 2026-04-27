@@ -15,7 +15,7 @@
 
 ## About Me
 
-With over 4.5 years of experience in full-stack development, I specialize in building enterprise solutions with a strong emphasis on clean architecture and Test-Driven Development (TDD). My expertise spans across:
+With over 5 years of experience in full-stack development, I specialize in building enterprise solutions with a strong emphasis on clean architecture and Test-Driven Development (TDD). My expertise spans across:
 
 - 📱 Cross-platform and native mobile development
 - 🏛️ Large-scale banking middleware solutions
