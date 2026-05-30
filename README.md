@@ -36,6 +36,25 @@ A Flutter plugin for Apple FinanceKit. Access financial accounts, balances, and 
 
 ## Tech Stack
 
+## Web Projects
+
+### [Shortest Path Visualizer](https://msamoeed.github.io/shortestpathalgo/)
+An interactive visualizer for BFS, Dijkstra, A*, and Bi-directional Dijkstra — on a freehand grid and real OpenStreetMap road networks. Type any two locations and watch the algorithms explore live.
+
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-1f6feb?style=flat)](https://msamoeed.github.io/shortestpathalgo/)
+[![OpenStreetMap](https://img.shields.io/badge/-OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)](https://msamoeed.github.io/shortestpathalgo/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://msamoeed.github.io/shortestpathalgo/)
+
+### [PriceHawk](https://pricehawk.me/)
+A free browser extension that tracks prices across any website, alerts you when they drop, and exposes fake "Special Offers" — so you never overpay online.
+
+[![Live](https://img.shields.io/badge/-Live%20Site-1f6feb?style=flat)](https://pricehawk.me/)
+
+### [Doha Metro Guide](https://dohametroguide.com/)
+Real-time train tracking and journey planning for the Doha Metro — covering 37 stations across the Red, Green, and Gold lines.
+
+[![Live](https://img.shields.io/badge/-Live%20Site-1f6feb?style=flat)](https://dohametroguide.com/)
+
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
