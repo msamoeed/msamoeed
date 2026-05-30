@@ -31,6 +31,8 @@ I maintain several Flutter packages that help developers build better applicatio
 
 ### [animated_overflow_progress_bar](https://github.com/msamoeed/animated_overflow_progress_bar)
 A customizable Flutter widget that creates an animated overflow progress bar, perfect for displaying progress with visual flair.
+### [flutter finance kit for ios](https://pub.dev/packages/flutter_financekit)
+A Flutter plugin for Apple FinanceKit. Access financial accounts, balances, and transactions from Apple Wallet on iOS 17.4+.
 
 ## Tech Stack
 
