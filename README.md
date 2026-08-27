@@ -23,7 +23,7 @@ With over 5 years of experience in full-stack development, I specialize in build
 - 🛠️ IoT and hardware integration
 - 📊 Enterprise software development
 
-Currently working at **Karty**, focusing on developing innovative solutions using cutting-edge technologies.
+Currently building at **Karty** during the day and building **Payghaam** at night , focusing on developing innovative solutions using cutting-edge technologies.
 
 ## Flutter Packages
 
